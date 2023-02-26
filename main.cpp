@@ -8,8 +8,8 @@ int main(){
     std::cout << "Number 3" << std::endl;
 
     //Runtime error
-    int value = 7/0;
-    std::cout << "value: " << value << std::endl;
+    // int value = 7/0;
+    // std::cout << "value: " << value << std::endl;
 
     return 0;
 }
