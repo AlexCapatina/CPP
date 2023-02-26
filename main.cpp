@@ -1,6 +1,9 @@
 #include <iostream>
 
-int main(){
-    auto result = (10 <=> 20) > 0;
-    std::cout << result << std::endl;
+int main(){    
+    std::cout << "Number 1" << std::endl;
+    std::cout << "Number 2" << std::endl;
+    std::cout << "Number 3" << std::endl;
+
+    return 0;
 }
